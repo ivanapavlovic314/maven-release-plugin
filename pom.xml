@@ -32,7 +32,7 @@
         <developerConnection>scm:git:https://github.com/ivanapavlovic314/maven-release-plugin.git</developerConnection>
         <url>https://github.com/ivanapavlovic314/maven-release-plugin</url>
         <tag>maven-release-plugin-1.1</tag>
-  </scm>
+    </scm>
     <build>
         <extensions>
             <extension>
